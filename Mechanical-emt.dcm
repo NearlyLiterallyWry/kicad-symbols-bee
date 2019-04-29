@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Silkscreen_Label
+D Silkscreen label
+K Silkscreen Label
+F ~
+$ENDCMP
+#
+#End Doc Library
