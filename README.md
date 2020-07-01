@@ -1,5 +1,5 @@
-kicad-symbols-emt
+kicad-symbols-bee
 =================
 
-This repository contains KiCad schematic symbols made by emt.
+This repository contains KiCad schematic symbols used in [bees](https://github.com/beecourse).
 
